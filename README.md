@@ -16,17 +16,17 @@ The gamers dataset contains 16598 games and 11 variables. The time period of the
 #### Key variables
 They include:
 
-*Genre
+Genre
 
-*Publisher
+Publisher
 
-*Regional Sales
+Regional Sales
 
-*Global Sales
+Global Sales
 
-*Platform
+Platform
 
-*Year
+Year
 
 ### Business Questions.
 Which genres generate the highest global revenue?
@@ -41,17 +41,17 @@ Are blockbuster games driving industry revenue?
 
 ### Key Insights.
 
-Action generated the highest global revenue.
+1.Action generated the highest global revenue.
 
 <img width="656" height="536" alt="image" src="https://github.com/user-attachments/assets/f41dee49-6ee2-4be0-8fda-54fc6f650b39" />
 
 
-North America was the highest contributer to global sales followed by Europe then Japan.
+2.North America was the best perfoming region.
 
 <img width="726" height="531" alt="image" src="https://github.com/user-attachments/assets/58371c7d-18e7-40b0-b2eb-0e817bac8d52" />
 
 
-Nintendo and ElectricArts were the top two publishers.
+3.Nintendo and ElectricArts were the top two publishers.
 
 <img width="723" height="497" alt="image" src="https://github.com/user-attachments/assets/75e271ce-d162-4a8e-86fc-ba272c6750d3" />
 
